@@ -60,6 +60,16 @@ Modellerin başarısı Test Seti üzerinde **R-squared ($R^2$ Score)** ve **Mean
 * Gelecek ay en yüksek satış hacmine ulaşacağı tahmin edilen **ilk 10 ürün**,
 * Gelecek ay en yüksek ciro potansiyeline sahip **ilk 10 müşteri segmenti** Seaborn kütüphanesiyle görselleştirilerek analitik rapora dönüştürülmektedir.
 
+EKRAN GÖRÜNTÜLERİ :
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
 ---
 
 ## 🏃‍♂️ Nasıl Çalıştırılır?
