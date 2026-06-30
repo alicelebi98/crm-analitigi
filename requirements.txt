@@ -1,0 +1,16 @@
+# --- Veri İşleme ve Manipülasyon ---
+pandas>=2.0.0
+numpy>=1.24.0
+
+# --- Zaman Serisi ve Matematiksel İşlemler ---
+scipy>=1.10.0
+
+# --- Makine Öğrenmesi ve İstatistik ---
+scikit-learn>=1.2.0
+
+# --- Veri Görselleştirme ve Analitik Raporlama ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Veri Kümesi Bağlantıları ---
+ucimlrepo>=0.0.7
