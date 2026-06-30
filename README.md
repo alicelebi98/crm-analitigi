@@ -61,16 +61,13 @@ Modellerin başarısı Test Seti üzerinde **R-squared ($R^2$ Score)** ve **Mean
 * Gelecek ay en yüksek ciro potansiyeline sahip **ilk 10 müşteri segmenti** Seaborn kütüphanesiyle görselleştirilerek analitik rapora dönüştürülmektedir.
 
 EKRAN GÖRÜNTÜLERİ :
- 
+<img width="945" height="469" alt="image" src="https://github.com/user-attachments/assets/58cf4d42-001a-468c-9619-c6693495f0e7" />
+<img width="945" height="469" alt="image" src="https://github.com/user-attachments/assets/9a124c38-9a98-4250-a53b-c1e60da53219" />
+<img width="945" height="469" alt="image" src="https://github.com/user-attachments/assets/320ab51a-92dd-4e0b-b2f7-1e541a37874a" />
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/d188f0c1-1591-49f5-bd97-e5d17545c4de" />
+<img width="945" height="238" alt="image" src="https://github.com/user-attachments/assets/22f11ded-e84e-486c-a6e1-c3c0fc671252" />
+<img width="865" height="1178" alt="image" src="https://github.com/user-attachments/assets/526e47ce-9ffb-4bcb-9574-889b85a0c768" />
 
- 
- 
- 
- 
-
- 
-
----
 
 ## 🏃‍♂️ Nasıl Çalıştırılır?
 
