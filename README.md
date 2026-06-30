@@ -1,10 +1,9 @@
-# End-to-End CRM Analytics & Predictive Demand Forecasting Pipeline
+# Uçtan Uca CRM Analitiği ve Öngörüsel Talep Tahmini Projesi
 
 Bu proje; e-ticaret tabanlı müşteri ve işlem verilerini işleyerek kurumsal düzeyde CRM (Müşteri İlişkileri Yönetimi) analitiği ve yapay zeka destekli gelecek dönem talep tahmini gerçekleştiren uçtan uca (end-to-end) bir veri bilimi pipeline'ıdır. Proje kapsamında müşterilerin geçmiş sadakat ve değer metrikleri (RFM) çıkarılmış, zaman serisi dinamikleri korunarak gelecekteki satın alma davranışları makine öğrenmesi algoritmalarıyla modellenmiştir.
 
 ## 🚀 Geliştirici Bilgileri
 * **Adı Soyadı:** Ali Çelebi
-* **Rol:** Yapısal Veri Analisti & Yapay Zeka Stajyeri
 * **LinkedIn:** [linkedin.com/in/alicelebi1198/](https://www.linkedin.com/in/alicelebi1198/)
 
 ---
@@ -73,5 +72,5 @@ EKRAN GÖRÜNTÜLERİ :
 
 1. Projeyi yerelinize klonlayın:
 ```bash
-git clone [https://github.com/kullanici_adi/repo_adi.git](https://github.com/kullanici_adi/repo_adi.git)
-cd repo_adi
+git clone (https://github.com/alicelebi98/crm-analitigi)]
+cd crm-analitigi
